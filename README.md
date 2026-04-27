@@ -1,4 +1,4 @@
-# 🔱 KAZUMA BOT - MULTI DEVICE 🔱
+# 🔱 KAZUM BOT - MULTI DEVICE 🔱
 > **"Un bot de WhatsApp revolucionario, creado desde cero con pasión y código puro."**
 
 <p align="center">
